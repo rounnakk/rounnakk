@@ -1,3 +1,6 @@
+![gif](https://github.com/user-attachments/assets/94eee9a1-5fe2-4854-acd8-9b1562e0657d)
+
+
 <h1 align="center">Hey, my name is Rounak👋</h1>
 
 ###
