@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on a GenAI powered Chatbot<br><br>🌱 I’m currently learning Meta APIs</p>
+<p align="center">🔭 I’m currently working on a GenAI powered Chatbot<br><br>🌱 I’m currently learning to create apps with Expo</p>
 
 ###
 
