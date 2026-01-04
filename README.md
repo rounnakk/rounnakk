@@ -31,6 +31,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
