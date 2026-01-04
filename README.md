@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on a GenAI powered Chatbot<br><br>🌱 I’m currently learning to create apps with Expo</p>
+<p align="center">🔭 I’m currently working on a GenAI powered Chatbot along with that also <b>developing an app</b> as a personal project🚀<br></p>
 
 ###
 
